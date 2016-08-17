@@ -4,8 +4,8 @@
  * L&T quote generator
  */
 
-var things = ["Pumpkins", "Ghosts", "Candy Corns", "Halloween", "Monsters", "Witches"];
-var programmers = ["pumpkin carver", "artist", "choreographer", "director", "mathematician", "architect"]
+var things = ["Pumpkins", "Ghosts", "Candy Corns", "Halloween", "Monsters", "Potions"];
+var programmers = ["Pumpkin Carver", "Dead People", "Candy Maker", "Halloween Enthusiast", "Frankenstein", "Witch"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
