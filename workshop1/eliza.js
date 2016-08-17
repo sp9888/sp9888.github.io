@@ -29,7 +29,7 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "What's good fam"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
@@ -41,12 +41,11 @@ var rules = {
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "I mean I don't really care but ok",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "That's right",
+    
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
@@ -63,7 +62,7 @@ var rules = {
     "You mentioned ~y",
   ],
   "~*x I want ~*y": [
-    "What would it mean if you got ~y?",
+    "lol how do you think you're gonna get ~y?",
     "Why do you want ~y?",
     "Suppose you got ~y soon.",
   ],
